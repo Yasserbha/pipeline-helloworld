@@ -15,7 +15,7 @@ public class Helloword {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.err.println("hi yasser");
+        System.out.println("hi yasser");
     }
     
 }
